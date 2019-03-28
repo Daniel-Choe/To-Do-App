@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The application was created using MERN (MongoDB, Express, React, and Node) stack.
 
 ## Available Scripts
 
