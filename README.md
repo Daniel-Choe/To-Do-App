@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The application was created using MERN (MongoDB, Express, React, and Node) stack.
 
+This project requires MongoDB installed on a local system.
+
+To run this application, please follow the steps below:
+
+In a Node terminal, point to the parent directory of the application.
+Execute "npm install".
+On completion, execute "npm start".
+
+In a seperate Node terminal, point to the parent directory of the application.
+Execute "npm install".
+On completion, execute "node server".**
+
+** If you have nodemon installed, execute "nodemon server" instead.
+
+Next task:
+Create deletion functionality.
+
 ## Available Scripts
 
 In the project directory, you can run:
